@@ -1,6 +1,7 @@
 # CS_584_Machine_Learning
 
 ABSTRACT
+
 This solution tackles the problem of detecting human faces from videos. Once the human face is detected, identification of person (name) is accomplished. 
 Haar and HOG methods which are used to detect faces have limitations in detecting it correctly. 
 Haar cascade classifier gives more false positives. 
@@ -9,6 +10,7 @@ To overcome these shortcomings Dlib’s face detection uses HOG + SVM, which mak
 So Dlib will be used in this project instead of Haar and HOG. For face recognition part Knn classification will be used.
 
 INTRODUCTION
+
 In this project I seek to address the problem of detecting and recognizing faces from videos. 
 This will be helpful in various applications like student class attendance analysis. 
 It will be useful in large organizations wherein a large pool of video data exists and needs to be analysed for the person present in that video. 
