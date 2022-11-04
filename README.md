@@ -22,4 +22,4 @@ ARCHITECTURE
 
 ![image](https://user-images.githubusercontent.com/42748797/200083249-bf768fd2-68ec-47a6-b7e0-0c88de6fc823.png)
 
-: Implementation Steps of modules (Image Source: TCS and CNBC)
+Fig : Implementation Steps of modules (Image Source: TCS and CNBC)
