@@ -17,3 +17,9 @@ It will be useful in large organizations wherein a large pool of video data exis
 For example if you want all the videos containing the CEO of your organization and the video file’s name doesn’t have it. 
 In this case by extracting the name of the people present in the video, this task can be accomplished. 
 The names of the people will be stored in a text file for further analysis.
+
+ARCHITECTURE
+
+![image](https://user-images.githubusercontent.com/42748797/200083249-bf768fd2-68ec-47a6-b7e0-0c88de6fc823.png)
+
+: Implementation Steps of modules (Image Source: TCS and CNBC)
